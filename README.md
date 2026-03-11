@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: Arunkumar S A </h3>
-<h3>Register Number/Staff Id: 212223220009 </h3>
+<h3>Name:   Arunkumar S A                 </h3>
+<h3>Register Number:   212223220009</h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -24,8 +24,9 @@ It is assumed that there will always be a safe path that the agent can take to e
 
 <hr>
 
-## PROGRAM:
-```python
+## Progarm:
+
+```py
 
 wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
@@ -137,17 +138,22 @@ while(player):
         score-=1000
         print("Ahhhhh!!!!\nYou fell in pit.\nAnd your score is: ",score,"\n")
         break
-```
 
+```
 <h1>Sample Input and Output:</h1>
 <hr>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
 
-## OUTPUT:
 
-<img width="945" height="715" alt="image" src="https://github.com/user-attachments/assets/0ad8ba9e-7539-4206-83fe-907cc7ff19ad" />
+## Output:
 
-## RESULT:
-Thus the program to solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic has been executed succesfully.
+<img width="545" height="151" alt="image" src="https://github.com/user-attachments/assets/c2a6ca52-0ffb-4ee2-8c99-9a198a366df1" />
+
+
+
+## Result:
+
+Therefore, Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
+
